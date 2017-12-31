@@ -57,5 +57,6 @@ module.exports = {
         })
     },
   },
+  plugins: [{ src: '~plugins/hoge.js' }],
   css: ['normalize.css/normalize.css', '~assets/scss/styles.scss'],
 }
