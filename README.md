@@ -1,3 +1,3 @@
-# Eventry
+# Nuxt base
 
-web版のリポジトリ
+あとで書く
